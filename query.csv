@@ -1,0 +1,4 @@
+PatientId,Age,RestingHeartRate,CholestrolLevel,Height,Weight,MedicationId
+85,25,81,131,56,223,8
+628,53,102,223,56,249,1
+44,66,104,195,78,484,4
